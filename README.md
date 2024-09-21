@@ -1,1 +1,1 @@
-[Download the PDF](noenotter/My_codes/Econometrics_Research_Project_R_Studio.pdf)
+[Download the PDF](Econometrics_Research_Project_R_Studio.pdf)
